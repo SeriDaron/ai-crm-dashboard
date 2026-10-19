@@ -4,6 +4,10 @@ An executive-style CRM dashboard with an embedded AI assistant, built with **Nex
 
 > **Demo note:** the data and the AI assistant are simulated locally so the project runs with zero configuration. The assistant is a drop-in placeholder for a real LLM API (OpenAI, Anthropic, etc.).
 
+## Screenshot
+
+![AI CRM Dashboard with KPI cards, customers table and AI assistant](docs/screenshot.png)
+
 ## Features
 
 - **KPI overview:** revenue, active customers, conversion rate, and automation metrics at a glance.
