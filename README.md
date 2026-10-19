@@ -2,6 +2,8 @@
 
 An executive-style CRM dashboard with an embedded AI assistant, built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.
 
+**Live demo:** [ai-crm-dashboard-delta.vercel.app](https://ai-crm-dashboard-delta.vercel.app)
+
 > **Demo note:** the data and the AI assistant are simulated locally so the project runs with zero configuration. The assistant is a drop-in placeholder for a real LLM API (OpenAI, Anthropic, etc.).
 
 ## Screenshot
