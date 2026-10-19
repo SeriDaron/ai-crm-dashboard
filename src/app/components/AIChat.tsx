@@ -40,7 +40,7 @@ export default function AIChat() {
     <div className="bg-slate-900 border border-slate-800 rounded-2xl flex flex-col h-[500px] shadow-xl overflow-hidden">
       <div className="p-4 bg-slate-800 border-b border-slate-700 flex items-center space-x-2">
         <div className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></div>
-        <h3 className="font-semibold text-sm text-slate-100">Claude AI Assistant</h3>
+        <h3 className="font-semibold text-sm text-slate-100">AI Assistant</h3>
       </div>
 
       <div className="flex-1 p-4 overflow-y-auto space-y-4">
@@ -56,7 +56,7 @@ export default function AIChat() {
         {isTyping && (
           <div className="flex justify-start">
             <div className="bg-slate-800 text-slate-400 text-xs px-4 py-2.5 rounded-2xl rounded-bl-none animate-pulse">
-              Claude is analyzing metrics...
+              Analyzing metrics...
             </div>
           </div>
         )}

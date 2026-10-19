@@ -32,7 +32,7 @@ export default function Home() {
         <header className="flex justify-between items-center">
           <div>
             <h1 className="text-3xl font-bold tracking-tight">Executive Dashboard</h1>
-            <p className="text-slate-400 text-sm mt-1">Real-time business performance powered by Claude 3.5 Sonnet.</p>
+            <p className="text-slate-400 text-sm mt-1">Real-time business performance with an AI assistant (simulated demo).</p>
           </div>
         </header>
 
